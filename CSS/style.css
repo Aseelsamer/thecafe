@@ -16,18 +16,12 @@ img {
     width: 50px;
     
   }
-h2{
-    text-align: center;
-    background-color: black;
-    color: white;
-    display: inline;
-    
-}
+
 
 p{
     text-align: center;
     display: inline-block;
-    margin-left: 400px;
+    margin-left: 50px;
 
 }
 
@@ -36,7 +30,15 @@ p{
     margin-right: auto;
     margin-left: auto;
     width: 80%;
-    
+
+}
+
+.pic
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
 }
 
 #header-background{
@@ -201,4 +203,6 @@ input[type=text], select, textarea{
     }
   }
 
-  
+  .paragraph {
+      text-align: center;
+  }
